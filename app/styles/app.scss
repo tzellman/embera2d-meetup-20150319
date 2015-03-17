@@ -1,0 +1,15 @@
+@import "components/slide-show";
+
+html, body, .application {
+    background-color: black;
+    color: white;
+}
+
+.application {
+    width: 60vw;
+    margin: 4vmin auto;
+}
+
+.code, pre {
+    font-family: monospace;
+}
